@@ -1,5 +1,5 @@
 {
-  "text": "سلام",
-  "title": "عتیق هستم",
-  "on-off": true
+  "text": "",
+  "title": "",
+  "link1":"https:google.com"
 }

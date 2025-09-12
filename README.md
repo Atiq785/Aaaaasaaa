@@ -1,5 +1,5 @@
 {
   "text": "",
   "title": "",
-  "link1":"https:google.com"
+  "on-off": true
 }

@@ -1,5 +1,5 @@
 {
   "text": "سلام سلام",
   "title": " چینل حمایت بشه",
-  "on-off": true
+  "on-off": "https://google.com"
 }
